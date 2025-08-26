@@ -18,3 +18,7 @@ Meu nome é Felipe Ronni, tenho 23 anos e atualmente estou em formação para me
 
 ## Idiomas
 ![Inglês](https://img.shields.io/badge/Inglês-Intermediário-000?style=for-the-badge=linkedin&logoColor=white)
+
+<div align="center">
+  <img height="60" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
+</div>
