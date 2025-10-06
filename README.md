@@ -4,7 +4,7 @@
 
 <h2>Sobre</h2>
 
-Meu nome é Felipe Ronni, tenho 23 anos e atualmente estou em formação para me tornar desenvolvedor.
+Meu nome é Felipe Ronni, tenho 23 anos e sou um futuro desenvolvedor Full-Stack.
 
 <h2>Conecte-se comigo</h2>
 
