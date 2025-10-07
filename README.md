@@ -47,12 +47,12 @@
 **Descrição:** Portfolio moderno mostrando minhas habilidades, projetos e informações de contato.
 
 
+### 📖 [Pokedex](https://feliperonni.github.io/pokedex/)  
+**Descrição:** Consome API de Pokémon e exibe informações dinâmicas sobre cada Pokémon.
+
+
 ### 🎹 [Simulador de Piano](https://feliperonni.github.io/simulador-de-piano/)  
 **Descrição:** Projeto interativo de piano feito com HTML, CSS e JavaScript para treinar lógica e manipulação do DOM.
-
-
-### 📖 [Pokedex](https://github.com/feliperonni/pokedex)  
-**Descrição:** Consome API de Pokémon e exibe informações dinâmicas sobre cada Pokémon.
 
 
 ![Coding Animation](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
