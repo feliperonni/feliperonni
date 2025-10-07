@@ -46,6 +46,9 @@
 ### 🌐 [Meu Portfolio](https://feliperonni.github.io/Meu-portfolio/)  
 **Descrição:** Portfolio moderno mostrando minhas habilidades, projetos e informações de contato.
 
+### 🌌 [Mundo Invertido](https://feliperonni.github.io/mundo-invertido/)
+**Descrição:** Site interativo sobre Stranger Things com tema dinâmico e formulário, feito em HTML e CSS.
+
 
 ### 📖 [Pokedex](https://feliperonni.github.io/pokedex/)  
 **Descrição:** Consome API de Pokémon e exibe informações dinâmicas sobre cada Pokémon.
