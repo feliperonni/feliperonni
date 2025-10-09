@@ -43,19 +43,18 @@
 
 ## 🚀 Meus Projetos
 
-### 🌐 [Meu Portfolio](https://feliperonni.github.io/Meu-portfolio/)  
+### 🌐 <a href="https://feliperonni.github.io/Meu-portfolio/" target="_blank">Meu Portfolio</a>  
 **Descrição:** Portfolio moderno mostrando minhas habilidades, projetos e informações de contato.
 
-### 🌌 [Mundo Invertido](https://feliperonni.github.io/mundo-invertido/)
+### 🌌 <a href="https://feliperonni.github.io/mundo-invertido/" target="_blank">Mundo Invertido</a>  
 **Descrição:** Site interativo sobre Stranger Things com tema dinâmico e formulário, feito em HTML e CSS.
 
-
-### 📖 [Pokedex](https://feliperonni.github.io/pokedex/)  
+### 📖 <a href="https://feliperonni.github.io/pokedex/" target="_blank">Pokedex</a>  
 **Descrição:** Consome API de Pokémon e exibe informações dinâmicas sobre cada Pokémon.
 
-
-### 🎹 [Simulador de Piano](https://feliperonni.github.io/simulador-de-piano/)  
+### 🎹 <a href="https://feliperonni.github.io/simulador-de-piano/" target="_blank">Simulador de Piano</a>  
 **Descrição:** Projeto interativo de piano feito com HTML, CSS e JavaScript para treinar lógica e manipulação do DOM.
+
 
 
 ![Coding Animation](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
