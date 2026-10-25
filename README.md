@@ -55,9 +55,6 @@ Atualmente, trabalho em projetos que envolvem presença digital, aplicações em
   <a href="https://claude.ai/">
     <img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
   </a>
-  <a href="https://lovable.dev/">
-    <img src="https://img.shields.io/badge/Lovable-111111?style=for-the-badge&logo=lovable&logoColor=white" alt="Lovable"/>
-  </a>
 </div>
 
 Utilizo ferramentas de IA como apoio à programação, prototipação, desenvolvimento de interfaces e construção de soluções digitais.
