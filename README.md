@@ -43,7 +43,6 @@ Atualmente, trabalho em projetos que envolvem presença digital, aplicações em
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub e Visual Studio Code"/>
-  <img src="https://cdn.simpleicons.org/lovable/8B5CF6" height="48" alt="Lovable"/>
 </div>
 
 ### Inteligência artificial
@@ -54,6 +53,9 @@ Atualmente, trabalho em projetos que envolvem presença digital, aplicações em
   </a>
   <a href="https://claude.ai/">
     <img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  </a>
+  <a href="https://lovable.dev/">
+    <img src="https://img.shields.io/badge/Lovable-111111?style=for-the-badge&logo=lovable&logoColor=white" alt="Lovable"/>
   </a>
 </div>
 
